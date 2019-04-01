@@ -7,10 +7,3 @@ yarn.lock
 package-lock.json
 
 static/bower_components/*
-static/dist/*
-static/build/*
-static/images/*
-static/plugins/*
-static/css/*
-
-styles/*
